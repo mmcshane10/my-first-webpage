@@ -1,0 +1,25 @@
+body {
+  background-color: pink;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  color: purple;
+  font-family: cursive;
+}
+
+h2 {
+  font-size: 100px;
+  color: purple;
+  font-family: cursive;
+}
+
+p {
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+ul {
+  font-weight: bold;
+}
